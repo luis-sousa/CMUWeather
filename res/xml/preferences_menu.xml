@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pf_title_place" >
+        <ListPreference
+            android:entries="@array/listOptions"
+            android:entryValues="@array/listValues"
+            android:key="listpref"
+            android:summary="@string/pf_sm_place"
+            android:title="@string/pf_place" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="@string/pf_title_option" >
+        <ListPreference
+            android:entries="@array/listOptionsWind"
+            android:entryValues="@array/listValuesWind"
+            android:key="listprefWind"
+            android:summary="@string/pf_sm_wind"
+            android:title="@string/pf_wind" />
+        <ListPreference
+            android:entries="@array/listOptionsDegrees"
+            android:entryValues="@array/listValuesDegrees"
+            android:key="listprefDegrees"
+            android:summary="@string/pf_sm_degree"
+            android:title="@string/pf_degree" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listOptions">
+        <item>Aveiro</item>
+        <item>Braga</item>
+        <item>Braganca</item>
+        <item>Coimbra</item>
+        <item>Porto</item> 
+        <item>Viana do Castelo</item>  
+        <item>Vila Nova de Gaia</item>  
+        <item>Vila Real</item>  
+        <item>Viseu</item>  
+        <item>Castelo Branco</item>  
+        <item>Evora</item>  
+        <item>Faro</item>  
+        <item>Funchal</item>  
+        <item>Leiria</item>  
+        <item>Lisbon</item>  
+        <item>Portalegre</item>  
+        <item>Santarem</item>  
+        <item>Setubal</item>         
+    </string-array>
+    <string-array name="listValues">
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>14</item>
+        <item>13</item> 
+        <item>12</item> 
+        <item>11</item> 
+        <item>10</item> 
+        <item>9</item> 
+        <item>8</item> 
+        <item>7</item> 
+        <item>6</item> 
+        <item>5</item> 
+        <item>4</item> 
+        <item>3</item> 
+        <item>2</item> 
+        <item>1</item>   
+    </string-array>
+    
+      <string-array name="listOptionsWind">
+        <item>Km</item>
+        <item>Miles</item>  
+    </string-array>
+     <string-array name="listValuesWind">
+        <item>Km</item>
+        <item>Miles</item>
+     </string-array>
+     
+     <string-array name="listOptionsDegrees">
+        <item>C</item>
+        <item>F</item>  
+    </string-array>
+     <string-array name="listValuesDegrees">
+        <item>C</item>
+        <item>F</item>
+     </string-array>
+</resources>
