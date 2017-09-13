@@ -10,5 +10,5 @@ CMUWeather é uma aplicação móvel para dispositivos Android que pretende apresent
 - Widget
 
 # Screenshots Aplicação
-![alt text]()
+![alt text](https://raw.githubusercontent.com/luis-sousa/CMUWeather/master/android.png)
 
